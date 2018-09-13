@@ -4,7 +4,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
 <head>
 <title>index</title>
-<!-- 2018-09-13 四 10:36 -->
+<!-- 2018-09-13 四 11:26 -->
 <meta  http-equiv="Content-Type" content="text/html;charset=utf-8" />
 <meta  name="generator" content="Org-mode" />
 <meta  name="author" content="yifanhuang" />
@@ -88,6 +88,7 @@
     { background-color: #ffff00; color: #000000; font-weight: bold; }
   /*]]>*/-->
 </style>
+<link rel="stylesheet" type="text/css" href="/assets/css/mini-default.min.css"/>
 <script type="text/javascript">
 /*
 @licstart  The following is the entire license notice for the
@@ -152,12 +153,56 @@ for the JavaScript code in this tag.
 <p>
 哈哈，小豆笔记上线了！
 </p>
+
+<table border="2" cellspacing="0" cellpadding="6" rules="groups" frame="hsides">
+
+
+<colgroup>
+<col  class="right" />
+
+<col  class="left" />
+
+<col  class="left" />
+</colgroup>
+<thead>
+<tr>
+<th scope="col" class="right">表头1</th>
+<th scope="col" class="left">表头2</th>
+<th scope="col" class="left">表头3</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="right">1</td>
+<td class="left">语文</td>
+<td class="left">历史</td>
+</tr>
+
+<tr>
+<td class="right">2</td>
+<td class="left">数学</td>
+<td class="left">地理</td>
+</tr>
+
+<tr>
+<td class="right">3</td>
+<td class="left">英语</td>
+<td class="left">艺术</td>
+</tr>
+
+<tr>
+<td class="right">&#xa0;</td>
+<td class="left">&#xa0;</td>
+<td class="left">&#xa0;</td>
+</tr>
+</tbody>
+</table>
 </div>
 </div>
 </div>
 <div id="postamble" class="status">
 <p class="author">Author: yifanhuang</p>
-<p class="date">Created: 2018-09-13 四 10:36</p>
+<p class="date">Created: 2018-09-13 四 11:26</p>
 <p class="creator"><a href="http://www.gnu.org/software/emacs/">Emacs</a> 24.5.1 (<a href="http://orgmode.org">Org</a> mode 8.2.10)</p>
 <p class="validation"><a href="http://validator.w3.org/check?uri=referer">Validate</a></p>
 </div>
