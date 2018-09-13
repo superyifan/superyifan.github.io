@@ -4,7 +4,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
 <head>
 <title>index</title>
-<!-- 2018-09-13 四 11:26 -->
+<!-- 2018-09-13 四 11:43 -->
 <meta  http-equiv="Content-Type" content="text/html;charset=utf-8" />
 <meta  name="generator" content="Org-mode" />
 <meta  name="author" content="yifanhuang" />
@@ -143,12 +143,20 @@ for the JavaScript code in this tag.
 <h2>Table of Contents</h2>
 <div id="text-table-of-contents">
 <ul>
-<li><a href="#sec-1">小豆笔记</a></li>
+<li><a href="#sec-1">日记</a></li>
+<li><a href="#sec-2">习作</a></li>
+<li><a href="#sec-3">错题</a></li>
+<li><a href="#sec-4">其它</a></li>
 </ul>
 </div>
 </div>
+<p>
+#+TITLE 小豆笔记
+弃我去者，昨日之日不可留；乱我心者，今日之日多烦忧。 
+</p>
+
 <div id="outline-container-sec-1" class="outline-2">
-<h2 id="sec-1">小豆笔记</h2>
+<h2 id="sec-1">日记</h2>
 <div class="outline-text-2" id="text-1">
 <p>
 哈哈，小豆笔记上线了！
@@ -189,20 +197,56 @@ for the JavaScript code in this tag.
 <td class="left">英语</td>
 <td class="left">艺术</td>
 </tr>
-
-<tr>
-<td class="right">&#xa0;</td>
-<td class="left">&#xa0;</td>
-<td class="left">&#xa0;</td>
-</tr>
 </tbody>
 </table>
+</div>
+</div>
+
+
+<div id="outline-container-sec-2" class="outline-2">
+<h2 id="sec-2">习作</h2>
+</div>
+
+<div id="outline-container-sec-3" class="outline-2">
+<h2 id="sec-3">错题</h2>
+</div>
+
+<div id="outline-container-sec-4" class="outline-2">
+<h2 id="sec-4">其它</h2>
+<div class="outline-text-2" id="text-4">
+<blockquote>
+<p>
+长干行·其一
+</p>
+
+<p>
+作者：李白
+</p>
+
+<p>
+妾发初覆额，折花门前剧。
+郎骑竹马来，绕床弄青梅。
+同居长干里，两小无嫌猜，
+十四为君妇，羞颜未尝开。
+低头向暗壁，千唤不一回。
+十五始展眉，愿同尘与灰。
+常存抱柱信，岂上望夫台。
+十六君远行，瞿塘滟滪堆。
+五月不可触，猿声天上哀。
+门前迟行迹，一一生绿苔。
+苔深不能扫，落叶秋风早。
+八月蝴蝶来，双飞西园草。
+感此伤妾心，坐愁红颜老。
+早晚下三巴，预将书报家。
+相迎不道远，直至长风沙。
+</p>
+</blockquote>
 </div>
 </div>
 </div>
 <div id="postamble" class="status">
 <p class="author">Author: yifanhuang</p>
-<p class="date">Created: 2018-09-13 四 11:26</p>
+<p class="date">Created: 2018-09-13 四 11:43</p>
 <p class="creator"><a href="http://www.gnu.org/software/emacs/">Emacs</a> 24.5.1 (<a href="http://orgmode.org">Org</a> mode 8.2.10)</p>
 <p class="validation"><a href="http://validator.w3.org/check?uri=referer">Validate</a></p>
 </div>
